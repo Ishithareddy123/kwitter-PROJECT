@@ -1,0 +1,29 @@
+#logo{
+    height: 50%;
+    width: 50%;
+}
+#MyBirthdayIsSooon{
+    background: rgb(247, 102, 203);
+}
+#go{
+    height:100px;
+    width: 200px;
+    background-color: rgb(247, 102, 203);
+    font-size: large;
+    font-style: bold;
+}
+#five{
+    background: rgb(247, 102, 203); 
+}
+#bold{
+    font-size: 25px;
+font-family: cursive;
+font-weight: bold;
+}
+#img{
+    width: 100px;
+    height: 100px;
+}
+#output{
+    background: rgb(255, 255, 255);
+}
