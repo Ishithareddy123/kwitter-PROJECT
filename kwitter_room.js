@@ -1,0 +1,1 @@
+document.getElementById("hey").innerHTML="Welcome "+localStorage.getItem("user name")+"😊";
